@@ -1,6 +1,6 @@
 # :ghost: CSS Ghost
 Ghost character made with CSS and animated with CSS animations.
-View [here](https://austinbuilds.github.io/CSS-Ghost)
+View [here](https://austinbuilds.github.io/CSS-Ghost).
 
 
 
